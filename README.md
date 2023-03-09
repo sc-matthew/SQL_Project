@@ -1,7 +1,14 @@
-# SQL_Project
-
+# Poote Resort (SQL - Database Project)
+## This project is brought to you by 
+* [Suramate Chokchaisuwan](https://github.com/sc-matthew)
+* [Dhawalrat Leelapratak](https://github.com/Dhawalratlee)
+* Kornkanok Klinsumalee
+* Nopphakrit Purisuriyaroj
 ---
 
+
+
+---
 ## Author's description of the dataset
 
 ### Context
