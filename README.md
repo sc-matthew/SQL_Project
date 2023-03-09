@@ -10,6 +10,11 @@ This project is a part of the database application for management. We decided to
 
 This project is highly emphasized as it provides us with valuable experiences in practical knowledge of theoretical concepts. Through this project, we will be able to develop our skills in data management and analysis, as well as enhance our critical thinking and problem-solving abilities. Overall, this project is an excellent opportunity for us to gain practical experience and strengthen our understanding of database applications in management.
 
+## This is a video of the project (THAI Language)
+| YouTube                                                                                                     | Title                                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href=https://youtu.be/wsibvveWkyA><img src=https://i.ytimg.com/vi/wsibvveWkyA/mqdefault.jpg />&nbsp;</a> | <a href="https://youtu.be/wsibvveWkyA">Poote Resort (SQL - Database Project)</a>  
+
 ---
 ## Author's description of the dataset
 
