@@ -2,9 +2,7 @@
 
 ---
 
-## Author's description of the dataset retrieve from Kaggle
-
-[Click here to see the dataset (Kaggle)](https://www.kaggle.com/datasets/mojtaba142/hotel-booking)
+## Author's description of the dataset
 
 ### Context
 * This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.
