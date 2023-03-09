@@ -18,3 +18,7 @@ Four Columns, 'name', 'email', 'phone number' and 'credit_card' have been artifi
 
 ### Inspiration
 * Your data will be in front of the world's largest data science community. What questions do you want to see answered?
+
+---
+## References:
+* [Kaggle - Hotel Dataset (mojtaba142)](https://www.kaggle.com/datasets/mojtaba142/hotel-booking)
