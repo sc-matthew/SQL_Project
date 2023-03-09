@@ -5,7 +5,10 @@
 * Kornkanok Klinsumalee
 * Nopphakrit Purisuriyaroj
 
+---
+Our project is a part of the database application for management. We decided to choose the data and focus in the tourism and hospitality, specifically hotel data. The data was retrieved from Kaggle and our group aims to implement what we have learned in the class through a hands-on assignment. We will be working on normalisation, data cleaning, data imputation, extract data by using SQL, questioning, and answering the management question.
 
+This project is highly emphasized as it provides us with valuable experiences in practical knowledge of theoretical concepts. Through this project, we will be able to develop our skills in data management and analysis, as well as enhance our critical thinking and problem-solving abilities. Overall, this project is an excellent opportunity for us to gain practical experience and strengthen our understanding of database applications in management.
 
 ---
 ## Author's description of the dataset
