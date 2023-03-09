@@ -1,0 +1,4 @@
+depositid,ddescr,percentage
+ND,No deposit,0
+RF,Refundable,0.5
+NR,Non Refund,1
