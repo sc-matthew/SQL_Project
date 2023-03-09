@@ -6,7 +6,7 @@
 * Nopphakrit Purisuriyaroj
 
 ---
-Our project is a part of the database application for management. We decided to choose the data and focus in the tourism and hospitality, specifically hotel data. The data was retrieved from Kaggle and our group aims to implement what we have learned in the class through a hands-on assignment. We will be working on normalisation, data cleaning, data imputation, extract data by using SQL, questioning, and answering the management question.
+This project is a part of the database application for management. We decided to choose the data and focus in the tourism and hospitality, specifically hotel data. The data was retrieved from Kaggle and our group aims to implement what we have learned in the class through the given assingment. We will be working on normalisation, data cleaning, data imputation, extract data by using SQL, questioning, and answering the management question.
 
 This project is highly emphasized as it provides us with valuable experiences in practical knowledge of theoretical concepts. Through this project, we will be able to develop our skills in data management and analysis, as well as enhance our critical thinking and problem-solving abilities. Overall, this project is an excellent opportunity for us to gain practical experience and strengthen our understanding of database applications in management.
 
@@ -22,9 +22,6 @@ Four Columns, 'name', 'email', 'phone number' and 'credit_card' have been artifi
 
 ### Acknowledgements
 * The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
-
-### Inspiration
-* Your data will be in front of the world's largest data science community. What questions do you want to see answered?
 
 ---
 ## References:
