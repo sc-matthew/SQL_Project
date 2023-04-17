@@ -3,7 +3,7 @@
 * [Suramate Chokchaisuwan](https://github.com/sc-matthew)
 * [Dhawalrat Leelapratak](https://github.com/Dhawalratlee)
 * Kornkanok Klinsumalee
-* Nopphakrit Purisuriyaroj
+* Noppakrit Phurisuriyaroj
 
 ---
 ## This is a video of the project (THAI Language)
